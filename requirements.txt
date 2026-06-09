@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+transformers
+torch
